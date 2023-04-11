@@ -17,5 +17,3 @@
 <img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/125987820/231272066-5a3f5d8b-2d66-43df-8511-28d8631a3751.png" style="padding-right:7px;" />
 <img align="left" alt="c#" width="55px" src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png" style="padding-right:7px;" />
 <img align="left" alt="Linux" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" style="padding-right:7px;" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
