@@ -1,13 +1,3 @@
-
-<head>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet'>
-  <style>
-    body {
-      font-family: 'Open Sans', sans-serif;
-    }
-  </style>
-</head>
-
 ### Hi,  my name is Hadar 
 🦋 🌈 ☁️ 🌻 💗
 
