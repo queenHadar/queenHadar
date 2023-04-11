@@ -17,3 +17,21 @@
 <img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/125987820/231272066-5a3f5d8b-2d66-43df-8511-28d8631a3751.png" style="padding-right:7px;" />
 <img align="left" alt="c#" width="55px" src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png" style="padding-right:7px;" />
 <img align="left" alt="Linux" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" style="padding-right:7px;" />
+
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
