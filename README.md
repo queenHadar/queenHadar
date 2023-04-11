@@ -1,2 +1,1 @@
-### Hi,  My name is Hadar 
-I love code, flowers and dogs 🐕 🌻 🖥️
+### Hi,  My name is Hadar :)
