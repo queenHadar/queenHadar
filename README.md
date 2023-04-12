@@ -18,4 +18,10 @@
 <img align="left" alt="c#" width="55px" src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png" style="padding-right:7px;" />
 <img align="left" alt="Linux" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" style="padding-right:7px;" />
 
+<br/>
+<br/>
+
+--- 
+
+### Most used Languges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
