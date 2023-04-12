@@ -21,7 +21,5 @@
 <br/>
 <br/>
 
----                                                                                                                            
-                                                                                                                           
-[![Top Langs](https:/queen-hadar.vercel.app/api/top-langs/?username=queenHadar&layout=compact)
-
+--- 
+<img align="left" alt="Github" src="https://github-readme-stats-queenhadar.vercel.app/api=queenHadar$show_icons=true&hide_border=true" />
