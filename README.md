@@ -25,5 +25,3 @@
                                                                                                                            
 [![Top Langs](https:/queen-hadar.vercel.app/api/top-langs/?username=queenHadar&layout=compact)
 
-
-(https://github.com/queenHadar/github-readme-stats)
