@@ -24,5 +24,3 @@
 --- 
 ### Connect with me:
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="https://www.instagram.com/h.a.d.a.r.l#gh-light-mode-only" width="30">
-<!-- discordapp.com/users/Hadar#8523
- -->
