@@ -22,4 +22,7 @@
 <br/>
 
 --- 
+### Connect with me:
 
+[![website](./img/instagram-light.svg)](https://www.instagram.com/h.a.d.a.r.l#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/h.a.d.a.r.l/#gh-dark-mode-only)
