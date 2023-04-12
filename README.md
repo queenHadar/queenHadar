@@ -24,4 +24,4 @@
 --- 
 ### Connect with me:
 
-[![website](https://cdn-icons-png.flaticon.com/512/1384/1384031.png)](https://www.instagram.com/h.a.d.a.r.l#gh-light-mode-only)
+[![website](https://cdn-icons-png.flaticon.com/512/1384/1384031.png) width="30px"](https://www.instagram.com/h.a.d.a.r.l#gh-light-mode-only)
