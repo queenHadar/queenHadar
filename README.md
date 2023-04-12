@@ -22,4 +22,4 @@
 <br/>
 
 --- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001825.8116b404ee974dac80c6c96c933df0d8.1101)](https://github.com/rayriffy/apple-music-github-profile)
