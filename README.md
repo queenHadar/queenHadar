@@ -22,38 +22,4 @@
 <br/>
 
 --- 
-name: Test
-on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-      - uses: qhy040404/am-update-time@master
-        with:
-          playlist: 'https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM'
-          keyword: 'Last Update: '
-      - run: |
-          cat README.md
-      - name: Commit changes
-        shell: sh
-        run: |
-          set -eu
-          git add README.md
-          if ! git diff --cached --quiet; then
-              git commit -m "Update playlist"
-          fi
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+
