@@ -23,4 +23,4 @@
 
 --- 
 ### Connect with me:
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="https://www.instagram.com/h.a.d.a.r.l/" width="30">
+<a href="https://www.instagram.com/h.a.d.a.r.l/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="Instagram" width="30"></a>
