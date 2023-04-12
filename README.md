@@ -25,6 +25,5 @@
 
 
 ### Connect with me:
-<a href="https://www.instagram.com/h.a.d.a.r.l/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="Instagram" width="30px" style="vertical-align: middle;"
-></a>
-<a href="https://discordapp.com/users/Hadar#8523"><img src="https://logowik.com/content/uploads/images/discord-new-black4590.jpg" alt="Discord" width="60px" height="60px" style="vertical-align: middle;"></a>
+<a href="https://www.instagram.com/h.a.d.a.r.l/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="Instagram" width="30px" style="vertical-align: middle;"></a>
+<a href="https://discordapp.com/users/Hadar#8523"><img src="https://logowik.com/content/uploads/images/discord-new-black4590.jpg" alt="Discord" width="60px" style="vertical-align: middle;"></a>
