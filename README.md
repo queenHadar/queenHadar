@@ -22,4 +22,4 @@
 <br/>
 
 --- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queenHadar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https:/queen-hadar.vercel.app/api/top-langs/?username=queenHadar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
