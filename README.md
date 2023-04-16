@@ -1,5 +1,5 @@
 ### Hi,  my name is Hadar 
-🦋 🌈 ☁️ 🌻 💗 🪄
+🦋 🌈 ☁️ 🌻 💗 
 
 ---
 ### Languages and Tools:
